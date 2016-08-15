@@ -8,7 +8,7 @@ var things = ["Music", "Art", "Dance", "Science", "Math", "Architecture"];
 var programmers = ["musician", "artist", "choreographer", "scientist", "mathematician", "architect"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
-var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
+var airs = ["sky", "atmosphere", "heavens", "ether", "wind", "clouds"];
 
 function choosei(lst){
     var i = Math.floor(Math.random() * lst.length);
